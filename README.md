@@ -1,0 +1,1 @@
+# No-Reference-Video-Quality-Assessment-Based-on-the-Temporal-Pooling-of-Deep-Features
