@@ -1,9 +1,7 @@
-% Written by: Domonkos Varga
-
 clear all
 close all
 
-load KoNViD1k.mat
+load KoNViD1k.mat % video names and MOS
 
 path = strcat(pwd,filesep,'KoNViD_1k_videos'); % folder where the videos are stored
 
