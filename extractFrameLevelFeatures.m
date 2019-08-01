@@ -3,7 +3,7 @@ function [FrameLevelFeatures] = extractFrameLevelFeatures(frame, net, Constants)
     
     resolution = size(frame);
     
-    if( length(resolution)~=3 || size(resolution,3)~=3 )
+    if( length(resolution)~=3 || size(frame,3)~=3 )
         error('variable frame must be RGB image'); 
     end
     
