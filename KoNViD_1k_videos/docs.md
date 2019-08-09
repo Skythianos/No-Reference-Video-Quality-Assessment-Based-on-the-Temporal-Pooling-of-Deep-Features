@@ -2,7 +2,7 @@ The videos of KoNViD-1k are available: http://database.mmsp-kn.de/konvid-1k-data
 
 If you use this database, please cite the following paper:
 
-@inproceedings{hosu2017konstanz,
+@inproceedings{hosu2017konstanz,</br>
 title = {The Konstanz natural video database 
 (KoNViD-1k)},
 author = {Hosu, Vlad and Hahn, Franz and Jenadeleh, 
